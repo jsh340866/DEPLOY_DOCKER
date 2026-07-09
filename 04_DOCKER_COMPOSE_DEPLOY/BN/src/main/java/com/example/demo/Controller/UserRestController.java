@@ -38,7 +38,7 @@ public class UserRestController {
     @Autowired
     private UserRepository userRepository;
 
-    @Autowired`
+    @Autowired
     private PasswordEncoder passwordEncoder;
 
     @Autowired
